@@ -9,6 +9,7 @@ Sobre mim
 Formado em **Sistemas de Informação**.
 Atualmente atuando com suporte técnico, infraestrutura de redes e manutenção de hardware.
 Foco de estudo em **Cibersegurança**, hardening de sistemas, protocolos de rede e privacidade (rumo a certificações da CompTIA Security+).
+
 Limeira - SP, Brasil.
 
 Tecnologias e Ferramentas que utilizo
