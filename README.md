@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme Conti Teixeira !
 
-> *Eterno aprendiz • Melhorando um pouco todos os dias • Nunca sei sobre tudo, mas o pouco que tenho, gosto de compartilhar 😉*
+> *Eterno aprendiz • Melhorando um pouco todos os dias • Nunca sei sobre tudo, mas o pouco que tenho, gosto de compartilhar *
 
 Sou um profissional de TI apaixonado por tecnologia, infraestrutura e segurança. Gosto de explorar a fundo o ecossistema Linux e estou sempre em busca de otimizar sistemas, garantir a privacidade digital e automatizar rotinas.
 
