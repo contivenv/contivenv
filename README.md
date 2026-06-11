@@ -4,15 +4,15 @@
 
 Sou um profissional de TI apaixonado por tecnologia, infraestrutura e segurança. Gosto de explorar a fundo o ecossistema Linux e estou sempre em busca de otimizar sistemas, garantir a privacidade digital e automatizar rotinas.
 
-Sobre mim
+## Sobre mim
 
 Formado em **Sistemas de Informação**.
 Atualmente atuando com suporte técnico, infraestrutura de redes e manutenção de hardware.
 Foco de estudo em **Cibersegurança**, hardening de sistemas, protocolos de rede e privacidade (rumo a certificações da CompTIA Security+).
 
-Limeira - SP, Brasil.
+Sou de Limeira - SP, Brasil.
 
-Tecnologias e Ferramentas que utilizo
+## Tecnologias e Ferramentas que utilizo
 
 - **Sistemas Operacionais:** Proficiência no ecossistema Linux (Ubuntu/Debian, Fedora/Red Hat, Manjaro/Arch Linux).
 - **Segurança & Privacidade:** Tor, Tails OS, VPNs, e-mails criptografados, inspeção de pacotes de rede, hardening de endpoints.
