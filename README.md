@@ -23,13 +23,6 @@ Sou de Limeira - SP, Brasil.
 - **Vault_tecnologias_guilherme:** Desenvolvimento de soluções open-source, como ferramentas para backups locais.
 - **Estudos em Segurança:** Repositórios dedicados a anotações de tecnologias, firewalls e conceitos de segurança da informação.
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=contivenv&show_icons=true&theme=tokyonight&include_all_commits=true&v=2" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contivenv&layout=compact&langs_count=7&theme=tokyonight&v=2" alt="Top Linguagens" />
-</div>
-
 ## Como me encontrar
 
 - **LinkedIn:** (https://www.linkedin.com/in/guilherme-conti-teixeira-8a18641b0/)
