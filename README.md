@@ -26,8 +26,8 @@ Sou de Limeira - SP, Brasil.
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=contivenv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contivenv&layout=compact&langs_count=7&theme=tokyonight&v=1" alt="Top Linguagens" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=contivenv&show_icons=true&theme=tokyonight&include_all_commits=true&v=2" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contivenv&layout=compact&langs_count=7&theme=tokyonight&v=2" alt="Top Linguagens" />
 </div>
 
 ## Como me encontrar
